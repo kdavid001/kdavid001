@@ -4,7 +4,7 @@ challenges. Proficient in Python, machine learning, and web development.
 
 
 - 🤖 Aspiring Machine Learning & Robotics Engineer<br>
-- 🌱 I’m currently learning Machine Learninh<br>
+- 🌱 I’m currently Researching Machine Learning<br>
 - ⚡ Fun fact: I love playing games and I enjoy learning and I might be Batman🦇<br>
 
 ## 🌐 Socials:
