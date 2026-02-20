@@ -2,7 +2,7 @@
 
 ### 🧠 Deep Learning & Reinforcement Learning Engineer
 
-I specialize in **Embodied AI**—giving physical robots the intelligence to navigate and interact with the world. While I am comfortable with hardware, my true passion lies in developing the **"brain"** of autonomous systems using **Deep Reinforcement Learning**. I am currently researching how agents can learn optimal policies to solve complex physical challenges.
+I specialize in **Embodied AI** giving physical robots the intelligence to navigate and interact with the world. While I am comfortable with hardware, my true passion lies in developing the **"brain"** of autonomous systems using **Deep Reinforcement Learning**. I am currently researching how agents can learn optimal policies to solve complex physical challenges.
 
 - 🔭 **I’m currently working on:** Advanced Deep Learning Research & Autonomous Systems
 - 🌱 **I’m currently learning:** Deep Reinforcement Learning & Computer Vision
