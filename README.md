@@ -1,3 +1,15 @@
+<div align="center">
+
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=180&section=header&text=David%20Ogunmola&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Deep%20Learning%20%E2%80%A2%20Embodied%20AI%20%E2%80%A2%203D%20Reconstruction&descAlignY=58&descSize=16&descColor=8b949e" width="100%" />
+
+</div>
+
+<br>
+
+<!-- About -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdavid001&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" width="38%" />
+
 # Hi, I'm David Ogunmola 👋
 
 ### 🧠 Deep Learning & Reinforcement Learning Engineer
@@ -8,52 +20,44 @@ I specialize in **Embodied AI** giving physical robots the intelligence to navig
 - 🌱 **I’m currently learning:** Deep Reinforcement Learning & Computer Vision
 - ⚡ **Fun fact:** I love strategy games, I enjoy learning, and... *I might be Batman 🦇*
 
+<br clear="right"/>
+
 ---
 
-### 🛠️ Technologies & Tools
-
-**🧠 AI, Data Science & Computer Vision**
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-</p>
-
-**🤖 Robotics, Simulation & Core**
-<p>
-  <img src="https://img.shields.io/badge/ROS-%230A0FF9?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/OpenAI%20Gym-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Gym" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-**🌐 Utilities & Web**
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-</p>
-
-### 📊 Development Activity
-
+<!-- Stats row -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdavid001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdavid001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
-</div>
-<br>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kdavid001&theme=tokyonight&hide_border=true" alt="streak graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kdavid001&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&hide=contribs" height="150" />
+&nbsp;&nbsp;
+<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=kdavid001&theme=github_dark&hide_border=true" height="150" /> -->
+
 </div>
 
-<br>
+---
+
+### 🛠️ Stack
+
+<div align="center">
+
+**AI & ML**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" />
+
+**Systems & Robotics**
+
+<img src="https://skillicons.dev/icons?i=cpp,arduino,linux,matlab&theme=dark" />
+
+**Web & Cloud**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,mysql,supabase,gcp&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
 
 <div align="center">
   <i>❝ Random Dev Quote ❞</i><br>
@@ -62,13 +66,18 @@ I specialize in **Embodied AI** giving physical robots the intelligence to navig
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/david-ogunmola/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/k0rede_d1"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:korededavid03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+### 📬 Find me
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kdavid001&icon=0&color=0" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ogunmola/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://david-port-nine.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:korededavid03@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer" width="100%" />
 </div>
