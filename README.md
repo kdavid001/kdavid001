@@ -29,7 +29,7 @@ I specialize in **Embodied AI** giving physical robots the intelligence to navig
 
 <img src="https://github-readme-stats.vercel.app/api?username=kdavid001&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&hide=contribs" height="150" />
 &nbsp;&nbsp;
-<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=kdavid001&theme=github_dark&hide_border=true" height="150" /> -->
+ <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=kdavid001&theme=github_dark&hide_border=true" height="150" /> -->
 
 </div>
 
